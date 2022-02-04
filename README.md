@@ -57,15 +57,15 @@ $ pip2 install mechanize lolcat
 $ pip2 install requests bs4
 $ pip2 install futures
 $ apt install git
-$ git clone https://github.com/GUPTA-SHAKEL/public.git
+$ git clone https://github.com/GUPTA-SHAKEL/OTF.git
 ```
 #### RUN SCRIPT
 ```python2
 $ cd public
 $ git pull
-$ python2 public.py
+$ python2 T.so
 ```
-#### :closed_lock_with_key: KEY PASSCODE ⁉️
+#### :closed_lock_with_key: NEED APPROVAL ⁉️
 
 #### JOIN WHATSAPP GROUP <br>
 [![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/F4rycPfDLj7CDxGxWAEvWB)
